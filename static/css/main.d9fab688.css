@@ -1,0 +1,2 @@
+.keypad{display:grid;grid-template-columns:repeat(4,100px);grid-template-rows:repeat(4,50px)}.App,form{display:grid;justify-content:center}.App{margin-top:100px}input{padding:10px;width:374px}
+/*# sourceMappingURL=main.d9fab688.css.map*/
